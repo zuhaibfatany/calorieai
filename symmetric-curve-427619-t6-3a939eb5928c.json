@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "symmetric-curve-427619-t6",
+  "private_key_id": "3a939eb5928c2db7d4c52961928eb19961333adf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5dDElKpKleF58\nz/16ZLeUwnCARnC9giXlpQmoqr8yj1xs6MCRUFXIEljaA58rfCDce6O0QHhpU7pd\nQKYVsq/z2ouol9wczQrGzbbu+zRCmSZHoQ122p4ygh2HPN5DHM7ct1RST3Qv6ek/\nYNBbV5+QMgQQwUbXimGKKjvAOhS7uf8roH2aHKadihuMlhj8kGW9dySK1QRuzggJ\nmAfSuUB/C1K15yitVNTNipFGoWQE04Y6eDwXXhDHHO7sYXuTTJzpqcJWO0bNcWB2\naCeAD+GidinlBotMIKyEPRHkICwG+VHegKH828ywp6K7Vs25SLyWVydYjySzEDq1\nN179YyCnAgMBAAECggEAPiN/gAuGvWjaiAmMziDHHlIULfbsOaNNHWgyF1C25bMB\nbgCC3W3EgFgda1dBUumxfQ70aCYd8nS6ghpyS9zmddepaeEQQJo3XSt6exKyjQoR\nuHhvMX7I+PV9/V1Yv7X8XhoTZ8z1ikRfAfxnc+OlNER99js8iGX2jrvd72fGoKt6\n+vkkHLkAplGe7ic0bMasi5Hjss4KBrirOXDsZn8pP6dgU1WkflSufLGtvJnUVngW\nLyxBAia1PaHuBOG4fzgLBGlG6ZqxKeiZhTGWmG2ADEQCHjS3QRGmoQdyRAlA3id9\nMyenjU5PfXJC2EGkuN9y+kzdDNoNrzyqL2M0XdObKQKBgQD9Gxvni5+1rYqGlmDY\nZ0Wc+oEj2mwXA1kYWe8ZOJExMJfHR+gGVxx25d5NxdICA/4NUgOP20UI7gGj17RR\nqEUSpnp2hEoEoUMjgQmZqIRwOaQHwm1mQ5/IIk/oDV0FDw7tsCgwFXvdxp9CGzau\n0Tg97J37dffN+DW4dQh7uEZTTQKBgQC7kw1Yobd71wMNlzRk/do1wA2SfR4JroeC\nHEnKzpOM47nU3gr7EpnphJPD2ASFZ8gRzQTnkdipad/yLampclavIbYAarzqlwqb\nIosOMoX4ReGBgeqtDPg6VGbzumRifWiBIdmG15patS2HRBo70AMFD3QjyTvODAxO\npsIV74fhwwKBgQCJ/YefGz49fJmzerTeBp+rT9+sPl8DxO2EGzQB2hc+bDGzkf5r\nxn5cTEKAwEMYmjid5oLOoUrn7WqzetxyUH0oB99oUgNQtuK1rpofTgK2dJZ7LIMc\nZ+3q3NoXt4FpSqZm681dOblIVgtprRCJCsPQ7vnKqKwrfRE8uYGggfzFWQKBgHPz\nMwzW6tVi1EBSd9D2Gy2eysUDEs5pVNrZIcR8bjlpjDZKC/+oP/xaN/2YSzMsNEDM\nu3tqbMRM7mKGV5qnU25vKFKZqK5bL/M2Jz9fe/E9QWkNJkRTAB8OjZWcYvF/FFq+\n0fjIzmHEHaDAOHdA3p0CMIjunEmCqRj1fISSzSyBAoGAOqDhL1cE2xpv2slkoaPL\nnmetjVmp37uj7L1UKkD7GMJCLkax71Eq/1ZmcfspDSdnNhdrHzHoXk+j2OBFnDEW\nG7hGVHZbMRjsEgNfzs+D43zxsPeBuEr5JaEKYsQ180fpslPUfHQ5GKIQlRXR57dk\nWd4eMzgHC8JiQTrWYvqLf0c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "calorieplusai@symmetric-curve-427619-t6.iam.gserviceaccount.com",
+  "client_id": "105878604496915196715",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calorieplusai%40symmetric-curve-427619-t6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
